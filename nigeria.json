@@ -1,0 +1,4211 @@
+{
+  "country": {
+    "name": "Nigeria",
+    "iso": "234",
+    "currency": "NGN"
+  },
+  "institutions": {
+    "list": [
+      {
+        "name": "ACCESS BANK",
+        "short_name": "ACCESS BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000014"
+        },
+        "status": "active",
+        "id": "23401000001"
+      },
+      {
+        "name": "CITI BANK",
+        "short_name": "CITI BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000009"
+        },
+        "status": "active",
+        "id": "23401000002"
+      },
+      {
+        "name": "DIAMOND BANK",
+        "short_name": "DIAMOND BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000005"
+        },
+        "status": "active",
+        "id": "23401000003"
+      },
+      {
+        "name": "ECOBANK BANK",
+        "short_name": "ECOBANK BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000010"
+        },
+        "status": "active",
+        "id": "23401000004"
+      },
+      {
+        "name": "FCMB",
+        "short_name": "FCMB",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000003"
+        },
+        "status": "active",
+        "id": "23401000005"
+      },
+      {
+        "name": "FIDELITY BANK",
+        "short_name": "FIDELITY BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000007"
+        },
+        "status": "active",
+        "id": "23401000006"
+      },
+      {
+        "name": "FIRST BANK OF NIGERIA",
+        "short_name": "FIRST BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000016"
+        },
+        "status": "active",
+        "id": "23401000007"
+      },
+      {
+        "name": "GLOBUS BANK",
+        "short_name": "GLOBUS BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000027"
+        },
+        "status": "active",
+        "id": "23401000008"
+      },
+      {
+        "name": "GTBANK PLC",
+        "short_name": "GTBANK PLC",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000013"
+        },
+        "status": "active",
+        "id": "23401000009"
+      },
+      {
+        "name": "HERITAGE",
+        "short_name": "HERITAGE",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000020"
+        },
+        "status": "active",
+        "id": "23401000010"
+      },
+      {
+        "name": "JAIZ BANK",
+        "short_name": "JAIZ BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000006"
+        },
+        "status": "active",
+        "id": "23401000011"
+      },
+      {
+        "name": "KEYSTONE BANK",
+        "short_name": "KEYSTONE BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000002"
+        },
+        "status": "active",
+        "id": "23401000012"
+      },
+      {
+        "name": "Lotus Bank",
+        "short_name": "Lotus Bank",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000029"
+        },
+        "status": "active",
+        "id": "23401000013"
+      },
+      {
+        "name": "POLARIS BANK",
+        "short_name": "POLARIS BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000008"
+        },
+        "status": "active",
+        "id": "23401000014"
+      },
+      {
+        "name": "PROVIDUS BANK ",
+        "short_name": "PROVIDUS BANK ",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000023"
+        },
+        "status": "active",
+        "id": "23401000015"
+      },
+      {
+        "name": "Parallex Bank",
+        "short_name": "Parallex Bank",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000030"
+        },
+        "status": "active",
+        "id": "23401000016"
+      },
+      {
+        "name": "Premium Trust bank",
+        "short_name": "Premium Trust",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000031"
+        },
+        "status": "active",
+        "id": "23401000017"
+      },
+      {
+        "name": "RAND MERCHANT BANK",
+        "short_name": "RAND MERCHANT",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000024"
+        },
+        "status": "active",
+        "id": "23401000018"
+      },
+      {
+        "name": "STANBICIBTC BANK",
+        "short_name": "STANBICIBTC BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000012"
+        },
+        "status": "active",
+        "id": "23401000019"
+      },
+      {
+        "name": "STANDARDCHARTERED",
+        "short_name": "STANDARDCHARTERED",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000021"
+        },
+        "status": "active",
+        "id": "23401000020"
+      },
+      {
+        "name": "STERLING BANK",
+        "short_name": "STERLING BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000001"
+        },
+        "status": "active",
+        "id": "23401000021"
+      },
+      {
+        "name": "SUNTRUST BANK",
+        "short_name": "SUNTRUST BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000022"
+        },
+        "status": "active",
+        "id": "23401000022"
+      },
+      {
+        "name": "TAJ BANK",
+        "short_name": "TAJ BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000026"
+        },
+        "status": "active",
+        "id": "23401000023"
+      },
+      {
+        "name": "TITAN TRUST BANK",
+        "short_name": "TITAN TRUST",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000025"
+        },
+        "status": "active",
+        "id": "23401000024"
+      },
+      {
+        "name": "UNION BANK",
+        "short_name": "UNION BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000018"
+        },
+        "status": "active",
+        "id": "23401000025"
+      },
+      {
+        "name": "UNITED BANK FOR AFRICA",
+        "short_name": "UNITED BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000004"
+        },
+        "status": "active",
+        "id": "23401000026"
+      },
+      {
+        "name": "UNITY BANK",
+        "short_name": "UNITY BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000011"
+        },
+        "status": "active",
+        "id": "23401000027"
+      },
+      {
+        "name": "WEMA BANK",
+        "short_name": "WEMA BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000017"
+        },
+        "status": "active",
+        "id": "23401000028"
+      },
+      {
+        "name": "ZENITH BANK PLC",
+        "short_name": "ZENITH BANK",
+        "type": "commercial_bank",
+        "legacy": {
+          "bank_code": "000015"
+        },
+        "status": "active",
+        "id": "23401000029"
+      },
+      {
+        "name": "9 payment service Bank",
+        "short_name": "9 payment",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "120001"
+        },
+        "status": "active",
+        "id": "23402000030"
+      },
+      {
+        "name": "HopePSB",
+        "short_name": "HopePSB",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "120002"
+        },
+        "status": "active",
+        "id": "23402000031"
+      },
+      {
+        "name": "MoMo PSB",
+        "short_name": "MoMo PSB",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "120003"
+        },
+        "status": "active",
+        "id": "23402000032"
+      },
+      {
+        "name": "Money Master PSB",
+        "short_name": "Money Master",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "120005"
+        },
+        "status": "active",
+        "id": "23402000033"
+      },
+      {
+        "name": "OPAY",
+        "short_name": "OPAY",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "100004"
+        },
+        "status": "active",
+        "id": "23402000034"
+      },
+      {
+        "name": "PAGA",
+        "short_name": "PAGA",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "100002"
+        },
+        "status": "active",
+        "id": "23402000035"
+      },
+      {
+        "name": "PALMPAY",
+        "short_name": "PALMPAY",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "100033"
+        },
+        "status": "active",
+        "id": "23402000036"
+      },
+      {
+        "name": "SmartCash Payment Service bank",
+        "short_name": "SmartCash Payment",
+        "type": "mobile_money",
+        "legacy": {
+          "bank_code": "120004"
+        },
+        "status": "active",
+        "id": "23402000037"
+      },
+      {
+        "name": "CORONATION",
+        "short_name": "CORONATION",
+        "type": "merchant_bank",
+        "legacy": {
+          "bank_code": "060001"
+        },
+        "status": "active",
+        "id": "23401000038"
+      },
+      {
+        "name": "FBNQUEST MERCHANT BANK",
+        "short_name": "FBNQUEST MERCHANT",
+        "type": "merchant_bank",
+        "legacy": {
+          "bank_code": "060002"
+        },
+        "status": "active",
+        "id": "23401000039"
+      },
+      {
+        "name": "Greenwich Merchant Bank",
+        "short_name": "Greenwich Merchant",
+        "type": "merchant_bank",
+        "legacy": {
+          "bank_code": "060004"
+        },
+        "status": "active",
+        "id": "23401000040"
+      },
+      {
+        "name": "NOVA MB",
+        "short_name": "NOVA MB",
+        "type": "merchant_bank",
+        "legacy": {
+          "bank_code": "060003"
+        },
+        "status": "active",
+        "id": "23401000041"
+      },
+      {
+        "name": "CARBON",
+        "short_name": "CARBON",
+        "type": "digital_bank",
+        "legacy": {
+          "bank_code": "100026"
+        },
+        "status": "active",
+        "id": "23401000042"
+      },
+      {
+        "name": "FAIRMONEY",
+        "short_name": "FAIRMONEY",
+        "type": "digital_bank",
+        "legacy": {
+          "bank_code": "090551"
+        },
+        "status": "active",
+        "id": "23401000043"
+      },
+      {
+        "name": "KUDA MICROFINANCE BANK",
+        "short_name": "KUDA MFB",
+        "type": "digital_bank",
+        "legacy": {
+          "bank_code": "090267"
+        },
+        "status": "active",
+        "id": "23401000044"
+      },
+      {
+        "name": "SPARKLE MICROFINANCE BANK",
+        "short_name": "SPARKLE MFB",
+        "type": "digital_bank",
+        "legacy": {
+          "bank_code": "090325"
+        },
+        "status": "active",
+        "id": "23401000045"
+      },
+      {
+        "name": "VFD MFB",
+        "short_name": "VFD MFB",
+        "type": "digital_bank",
+        "legacy": {
+          "bank_code": "090110"
+        },
+        "status": "active",
+        "id": "23401000046"
+      },
+      {
+        "name": "Arca Payments",
+        "short_name": "Arca Payments",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110011"
+        },
+        "status": "active",
+        "id": "23401000047"
+      },
+      {
+        "name": "CROWDFORCE",
+        "short_name": "CROWDFORCE",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110017"
+        },
+        "status": "active",
+        "id": "23401000048"
+      },
+      {
+        "name": "Capricorn Digital",
+        "short_name": "Capricorn Digital",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110023"
+        },
+        "status": "active",
+        "id": "23401000049"
+      },
+      {
+        "name": "Koraypay",
+        "short_name": "Koraypay",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110022"
+        },
+        "status": "active",
+        "id": "23401000050"
+      },
+      {
+        "name": "Microsystems Investment and Development Limited",
+        "short_name": "Microsystems Investment",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110018"
+        },
+        "status": "active",
+        "id": "23401000051"
+      },
+      {
+        "name": "NIBSSUSSD PAYMENTS",
+        "short_name": "NIBSSUSSD PAYMENTS",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110019"
+        },
+        "status": "active",
+        "id": "23401000052"
+      },
+      {
+        "name": "NetApps Technology Limited",
+        "short_name": "NetApps Technology",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110025"
+        },
+        "status": "active",
+        "id": "23401000053"
+      },
+      {
+        "name": "Nomba financial services Limited",
+        "short_name": "Nomba financial",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110028"
+        },
+        "status": "active",
+        "id": "23401000054"
+      },
+      {
+        "name": "Resident Fintech Limited",
+        "short_name": "Resident Fintech",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110024"
+        },
+        "status": "active",
+        "id": "23401000055"
+      },
+      {
+        "name": "SPAY business",
+        "short_name": "SPAY business",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110026"
+        },
+        "status": "active",
+        "id": "23401000056"
+      },
+      {
+        "name": "Vas2nets Limited",
+        "short_name": "Vas2nets Limited",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110015"
+        },
+        "status": "active",
+        "id": "23401000057"
+      },
+      {
+        "name": "Yello Digital financial services",
+        "short_name": "Yello Digital",
+        "type": "payment_solution",
+        "legacy": {
+          "bank_code": "110027"
+        },
+        "status": "active",
+        "id": "23401000058"
+      },
+      {
+        "name": "ABBEY MORTGAGE BANK",
+        "short_name": "ABBEY MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070010"
+        },
+        "status": "active",
+        "id": "23401000059"
+      },
+      {
+        "name": "AG MORTGAGE BANK PLC",
+        "short_name": "AG MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "100028"
+        },
+        "status": "active",
+        "id": "23401000060"
+      },
+      {
+        "name": "BRENT MORTGAGE BANK",
+        "short_name": "BRENT MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070015"
+        },
+        "status": "active",
+        "id": "23401000061"
+      },
+      {
+        "name": "COOP Mortgage Bank",
+        "short_name": "COOP Mortgage",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070021"
+        },
+        "status": "active",
+        "id": "23401000062"
+      },
+      {
+        "name": "COVENANT MFB",
+        "short_name": "COVENANT MFB",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070006"
+        },
+        "status": "active",
+        "id": "23401000063"
+      },
+      {
+        "name": "Delta Trust Mortgage bank",
+        "short_name": "Delta Trust",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070023"
+        },
+        "status": "active",
+        "id": "23401000064"
+      },
+      {
+        "name": "FIRST GENERATION MORTGAGE BANK",
+        "short_name": "FIRST GENERATION",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070014"
+        },
+        "status": "active",
+        "id": "23401000065"
+      },
+      {
+        "name": "GATEWAY MORTGAGE BANK",
+        "short_name": "GATEWAY MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070009"
+        },
+        "status": "active",
+        "id": "23401000066"
+      },
+      {
+        "name": "HAGGAI MORTGAGE BANK",
+        "short_name": "HAGGAI MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070017"
+        },
+        "status": "active",
+        "id": "23401000067"
+      },
+      {
+        "name": "HomeBase Mortgage",
+        "short_name": "HomeBase Mortgage",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070024"
+        },
+        "status": "active",
+        "id": "23401000068"
+      },
+      {
+        "name": "IMPERIAL HOMES MORTGAGE BANK",
+        "short_name": "IMPERIAL HOMES",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "100024"
+        },
+        "status": "active",
+        "id": "23401000069"
+      },
+      {
+        "name": "INFINITY TRUST  MORTGAGE BANK",
+        "short_name": "INFINITY TRUST",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070016"
+        },
+        "status": "active",
+        "id": "23401000070"
+      },
+      {
+        "name": "LBIC MORTGAGE BANK",
+        "short_name": "LBIC MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070012"
+        },
+        "status": "active",
+        "id": "23401000071"
+      },
+      {
+        "name": "LIVINGTRUST MORTGAGE BANK PLC",
+        "short_name": "LIVINGTRUST MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070007"
+        },
+        "status": "active",
+        "id": "23401000072"
+      },
+      {
+        "name": "MAYFRESH MORTGAGE BANK",
+        "short_name": "MAYFRESH MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070019"
+        },
+        "status": "active",
+        "id": "23401000073"
+      },
+      {
+        "name": "NPF MICROFINANCE BANK",
+        "short_name": "NPF MFB",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070001"
+        },
+        "status": "active",
+        "id": "23401000074"
+      },
+      {
+        "name": "PAGE FINANCIALS",
+        "short_name": "PAGE FINANCIALS",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070008"
+        },
+        "status": "active",
+        "id": "23401000075"
+      },
+      {
+        "name": "PLATINUM MORTGAGE BANK",
+        "short_name": "PLATINUM MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070013"
+        },
+        "status": "active",
+        "id": "23401000076"
+      },
+      {
+        "name": "REFUGE MORTGAGE BANK",
+        "short_name": "REFUGE MORTGAGE",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070011"
+        },
+        "status": "active",
+        "id": "23401000077"
+      },
+      {
+        "name": "STB Mortgage Bank",
+        "short_name": "STB Mortgage",
+        "type": "mortgage_bank",
+        "legacy": {
+          "bank_code": "070022"
+        },
+        "status": "active",
+        "id": "23401000078"
+      },
+      {
+        "name": "UNIIBADAN Microfinance Bank",
+        "short_name": "UNIIBADAN MFB",
+        "type": "regional_bank",
+        "legacy": {
+          "bank_code": "090461"
+        },
+        "status": "active",
+        "id": "23401000079"
+      },
+      {
+        "name": "AB MICROFINANCE BANK",
+        "short_name": "AB MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090270"
+        },
+        "status": "active",
+        "id": "23401000080"
+      },
+      {
+        "name": "ABOVE ONLY MICROFINANCE BANK",
+        "short_name": "ABOVE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090260"
+        },
+        "status": "active",
+        "id": "23401000081"
+      },
+      {
+        "name": "ABU MICROFINANCE BANK",
+        "short_name": "ABU MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090197"
+        },
+        "status": "active",
+        "id": "23401000082"
+      },
+      {
+        "name": "ACCION MFB",
+        "short_name": "ACCION MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090134"
+        },
+        "status": "active",
+        "id": "23401000083"
+      },
+      {
+        "name": "ADDOSSER MFBB",
+        "short_name": "ADDOSSER MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090160"
+        },
+        "status": "active",
+        "id": "23401000084"
+      },
+      {
+        "name": "ADEYEMI COLLEGE STAFF MICROFINANCE BANK",
+        "short_name": "ADEYEMI MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090268"
+        },
+        "status": "active",
+        "id": "23401000085"
+      },
+      {
+        "name": "ADVANS LA FAYETTE MFB",
+        "short_name": "ADVANS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090155"
+        },
+        "status": "active",
+        "id": "23401000086"
+      },
+      {
+        "name": "AGOSASA MICROFINANCE BANK",
+        "short_name": "AGOSASA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090371"
+        },
+        "status": "active",
+        "id": "23401000087"
+      },
+      {
+        "name": "AL-BARKAH MFB",
+        "short_name": "AL-BARKAH MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090133"
+        },
+        "status": "active",
+        "id": "23401000088"
+      },
+      {
+        "name": "ALEKUN MICROFINANCE BANK",
+        "short_name": "ALEKUN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090259"
+        },
+        "status": "active",
+        "id": "23401000089"
+      },
+      {
+        "name": "ALERT MFB",
+        "short_name": "ALERT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090297"
+        },
+        "status": "active",
+        "id": "23401000090"
+      },
+      {
+        "name": "ALHAYAT MFB",
+        "short_name": "ALHAYAT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090277"
+        },
+        "status": "active",
+        "id": "23401000091"
+      },
+      {
+        "name": "ALLWORKERS MFB",
+        "short_name": "ALLWORKERS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090131"
+        },
+        "status": "active",
+        "id": "23401000092"
+      },
+      {
+        "name": "ALPHAKAPITAL MFB",
+        "short_name": "ALPHAKAPITAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090169"
+        },
+        "status": "active",
+        "id": "23401000093"
+      },
+      {
+        "name": "AMJU MFB",
+        "short_name": "AMJU MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090180"
+        },
+        "status": "active",
+        "id": "23401000094"
+      },
+      {
+        "name": "AMML MFB",
+        "short_name": "AMML MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090116"
+        },
+        "status": "active",
+        "id": "23401000095"
+      },
+      {
+        "name": "APEKS MICROFINANCE BANK",
+        "short_name": "APEKS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090143"
+        },
+        "status": "active",
+        "id": "23401000096"
+      },
+      {
+        "name": "APPLE  MICROFINANCE BANK",
+        "short_name": "APPLE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090376"
+        },
+        "status": "active",
+        "id": "23401000097"
+      },
+      {
+        "name": "ARISE MFB",
+        "short_name": "ARISE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090282"
+        },
+        "status": "active",
+        "id": "23401000098"
+      },
+      {
+        "name": "ASOSAVINGS",
+        "short_name": "ASOSAVINGS",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090001"
+        },
+        "status": "active",
+        "id": "23401000099"
+      },
+      {
+        "name": "ASSETS Microfinance Bank",
+        "short_name": "ASSETS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090473"
+        },
+        "status": "active",
+        "id": "23401000100"
+      },
+      {
+        "name": "ASTRAPOLARIS MFB",
+        "short_name": "ASTRAPOLARIS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090172"
+        },
+        "status": "active",
+        "id": "23401000101"
+      },
+      {
+        "name": "ATBU  Microfinance Bank",
+        "short_name": "ATBU MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090451"
+        },
+        "status": "active",
+        "id": "23401000102"
+      },
+      {
+        "name": "AUCHI MICROFINANCE BANK",
+        "short_name": "AUCHI MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090264"
+        },
+        "status": "active",
+        "id": "23401000103"
+      },
+      {
+        "name": "Abucoop  Microfinance Bank",
+        "short_name": "Abucoop MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090424"
+        },
+        "status": "active",
+        "id": "23401000104"
+      },
+      {
+        "name": "Ada MFB",
+        "short_name": "Ada MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090483"
+        },
+        "status": "active",
+        "id": "23401000105"
+      },
+      {
+        "name": "Afekhafe MFB",
+        "short_name": "Afekhafe MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090292"
+        },
+        "status": "active",
+        "id": "23401000106"
+      },
+      {
+        "name": "Afemai Microfinance Bank",
+        "short_name": "Afemai MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090518"
+        },
+        "status": "active",
+        "id": "23401000107"
+      },
+      {
+        "name": "Alvana Microfinance Bank",
+        "short_name": "Alvana MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090489"
+        },
+        "status": "active",
+        "id": "23401000108"
+      },
+      {
+        "name": "Amac Microfinance Bank",
+        "short_name": "Amac MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090394"
+        },
+        "status": "active",
+        "id": "23401000109"
+      },
+      {
+        "name": "Ampersand Microfinance bank",
+        "short_name": "Ampersand MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090529"
+        },
+        "status": "active",
+        "id": "23401000110"
+      },
+      {
+        "name": "Anchorage MFB",
+        "short_name": "Anchorage MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090476"
+        },
+        "status": "active",
+        "id": "23401000111"
+      },
+      {
+        "name": "Aniocha MFB",
+        "short_name": "Aniocha MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090469"
+        },
+        "status": "active",
+        "id": "23401000112"
+      },
+      {
+        "name": "Assets Matrix MFB",
+        "short_name": "Assets MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090287"
+        },
+        "status": "active",
+        "id": "23401000113"
+      },
+      {
+        "name": "Avuenegbe MFB",
+        "short_name": "Avuenegbe MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090478"
+        },
+        "status": "active",
+        "id": "23401000114"
+      },
+      {
+        "name": "BAINES CREDIT MFB",
+        "short_name": "BAINES MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090188"
+        },
+        "status": "active",
+        "id": "23401000115"
+      },
+      {
+        "name": "BALOGUN GAMBARI MFB",
+        "short_name": "BALOGUN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090326"
+        },
+        "status": "active",
+        "id": "23401000116"
+      },
+      {
+        "name": "BAYERO MICROFINANCE BANK",
+        "short_name": "BAYERO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090316"
+        },
+        "status": "active",
+        "id": "23401000117"
+      },
+      {
+        "name": "BC KASH MFB",
+        "short_name": "BC MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090127"
+        },
+        "status": "active",
+        "id": "23401000118"
+      },
+      {
+        "name": "BIPC MICROFINANCE BANK",
+        "short_name": "BIPC MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090336"
+        },
+        "status": "active",
+        "id": "23401000119"
+      },
+      {
+        "name": "BOCTRUST MICROFINANCE BANK",
+        "short_name": "BOCTRUST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090117"
+        },
+        "status": "active",
+        "id": "23401000120"
+      },
+      {
+        "name": "BOI MF Bank",
+        "short_name": "BOI MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090444"
+        },
+        "status": "active",
+        "id": "23401000121"
+      },
+      {
+        "name": "BOSAK MFB",
+        "short_name": "BOSAK MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090176"
+        },
+        "status": "active",
+        "id": "23401000122"
+      },
+      {
+        "name": "BOWEN MFB",
+        "short_name": "BOWEN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090148"
+        },
+        "status": "active",
+        "id": "23401000123"
+      },
+      {
+        "name": "BRETHREN MICROFINANCE BANK",
+        "short_name": "BRETHREN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090293"
+        },
+        "status": "active",
+        "id": "23401000124"
+      },
+      {
+        "name": "BRIGHTWAY MFB",
+        "short_name": "BRIGHTWAY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090308"
+        },
+        "status": "active",
+        "id": "23401000125"
+      },
+      {
+        "name": "BUBAYERO Microfinance Bank",
+        "short_name": "BUBAYERO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090512"
+        },
+        "status": "active",
+        "id": "23401000126"
+      },
+      {
+        "name": "Balogun Fulani  Microfinance Bank",
+        "short_name": "Balogun MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090181"
+        },
+        "status": "active",
+        "id": "23401000127"
+      },
+      {
+        "name": "Banex Microfinance Bank",
+        "short_name": "Banex MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090425"
+        },
+        "status": "active",
+        "id": "23401000128"
+      },
+      {
+        "name": "Benysta Microfinance Bank",
+        "short_name": "Benysta MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090413"
+        },
+        "status": "active",
+        "id": "23401000129"
+      },
+      {
+        "name": "Bluewhales  Microfinance Bank",
+        "short_name": "Bluewhales MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090431"
+        },
+        "status": "active",
+        "id": "23401000130"
+      },
+      {
+        "name": "Boji Boji Microfinance Bank",
+        "short_name": "Boji MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090494"
+        },
+        "status": "active",
+        "id": "23401000131"
+      },
+      {
+        "name": "Bonghe Microfinance Bank",
+        "short_name": "Bonghe MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090319"
+        },
+        "status": "active",
+        "id": "23401000132"
+      },
+      {
+        "name": "Borgu MFB",
+        "short_name": "Borgu MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090395"
+        },
+        "status": "active",
+        "id": "23401000133"
+      },
+      {
+        "name": "Borno Renaissance Microfinance bank",
+        "short_name": "Borno MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090508"
+        },
+        "status": "active",
+        "id": "23401000134"
+      },
+      {
+        "name": "Boromu Microfinance bank",
+        "short_name": "Boromu MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090501"
+        },
+        "status": "active",
+        "id": "23401000135"
+      },
+      {
+        "name": "Borstal Microfinance Bank",
+        "short_name": "Borstal MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090454"
+        },
+        "status": "active",
+        "id": "23401000136"
+      },
+      {
+        "name": "Bridgeway Microfinance Bank",
+        "short_name": "Bridgeway MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090393"
+        },
+        "status": "active",
+        "id": "23401000137"
+      },
+      {
+        "name": "Business Support Microfinance Bank",
+        "short_name": "Business MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090406"
+        },
+        "status": "active",
+        "id": "23401000138"
+      },
+      {
+        "name": "CAPITALMETRIQ SWIFT MICROFINANCE BANK",
+        "short_name": "CAPITALMETRIQ MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090509"
+        },
+        "status": "active",
+        "id": "23401000139"
+      },
+      {
+        "name": "CARETAKER Microfinance Bank",
+        "short_name": "CARETAKER MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090472"
+        },
+        "status": "active",
+        "id": "23401000140"
+      },
+      {
+        "name": "CASHCONNECT   MICROFINANCE BANK",
+        "short_name": "CASHCONNECT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090360"
+        },
+        "status": "active",
+        "id": "23401000141"
+      },
+      {
+        "name": "CEMCS MFB",
+        "short_name": "CEMCS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090154"
+        },
+        "status": "active",
+        "id": "23401000142"
+      },
+      {
+        "name": "CHIKUM MICROFINANCE BANK",
+        "short_name": "CHIKUM MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090141"
+        },
+        "status": "active",
+        "id": "23401000143"
+      },
+      {
+        "name": "CIT MICROFINANCE BANK",
+        "short_name": "CIT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090144"
+        },
+        "status": "active",
+        "id": "23401000144"
+      },
+      {
+        "name": "COASTLINE MICROFINANCE BANK",
+        "short_name": "COASTLINE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090374"
+        },
+        "status": "active",
+        "id": "23401000145"
+      },
+      {
+        "name": "CONSUMER  MFB",
+        "short_name": "CONSUMER MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090130"
+        },
+        "status": "active",
+        "id": "23401000146"
+      },
+      {
+        "name": "CREDIT AFRIQUE MFB",
+        "short_name": "CREDIT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090159"
+        },
+        "status": "active",
+        "id": "23401000147"
+      },
+      {
+        "name": "Calabar Microfinance Bank",
+        "short_name": "Calabar MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090415"
+        },
+        "status": "active",
+        "id": "23401000148"
+      },
+      {
+        "name": "Capstone MF Bank",
+        "short_name": "Capstone MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090445"
+        },
+        "status": "active",
+        "id": "23401000149"
+      },
+      {
+        "name": "Catland Microfinance Bank",
+        "short_name": "Catland MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090498"
+        },
+        "status": "active",
+        "id": "23401000150"
+      },
+      {
+        "name": "Chanelle Bank",
+        "short_name": "Chanelle Bank",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090397"
+        },
+        "status": "active",
+        "id": "23401000151"
+      },
+      {
+        "name": "Changan RTS Microfinance Bank",
+        "short_name": "Changan MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090470"
+        },
+        "status": "active",
+        "id": "23401000152"
+      },
+      {
+        "name": "Chase Microfinance bank",
+        "short_name": "Chase MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090523"
+        },
+        "status": "active",
+        "id": "23401000153"
+      },
+      {
+        "name": "Cherish Microfinance Bank",
+        "short_name": "Cherish MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090440"
+        },
+        "status": "active",
+        "id": "23401000154"
+      },
+      {
+        "name": "Chibueze Microfinance Bank",
+        "short_name": "Chibueze MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090416"
+        },
+        "status": "active",
+        "id": "23401000155"
+      },
+      {
+        "name": "Chukwunenye  Microfinance Bank",
+        "short_name": "Chukwunenye MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090490"
+        },
+        "status": "active",
+        "id": "23401000156"
+      },
+      {
+        "name": "Cintrust MFB",
+        "short_name": "Cintrust MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090480"
+        },
+        "status": "active",
+        "id": "23401000157"
+      },
+      {
+        "name": "Citizen Trust Microfinance Bank Ltd",
+        "short_name": "Citizen MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090343"
+        },
+        "status": "active",
+        "id": "23401000158"
+      },
+      {
+        "name": "Cloverleaf  MFB",
+        "short_name": "Cloverleaf MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090511"
+        },
+        "status": "active",
+        "id": "23401000159"
+      },
+      {
+        "name": "CoalCamp Microfinance Bank",
+        "short_name": "CoalCamp MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090254"
+        },
+        "status": "active",
+        "id": "23401000160"
+      },
+      {
+        "name": "Corestep MICROFINANCE BANK",
+        "short_name": "Corestep MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090365"
+        },
+        "status": "active",
+        "id": "23401000161"
+      },
+      {
+        "name": "Crescent Microfinance bank",
+        "short_name": "Crescent MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090526"
+        },
+        "status": "active",
+        "id": "23401000162"
+      },
+      {
+        "name": "CrossRiver  Microfinance Bank",
+        "short_name": "CrossRiver MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090429"
+        },
+        "status": "active",
+        "id": "23401000163"
+      },
+      {
+        "name": "Crutech  Microfinance Bank",
+        "short_name": "Crutech MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090414"
+        },
+        "status": "active",
+        "id": "23401000164"
+      },
+      {
+        "name": "DAYLIGHT MICROFINANCE BANK",
+        "short_name": "DAYLIGHT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090167"
+        },
+        "status": "active",
+        "id": "23401000165"
+      },
+      {
+        "name": "Davodani  Microfinance Bank",
+        "short_name": "Davodani MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090391"
+        },
+        "status": "active",
+        "id": "23401000166"
+      },
+      {
+        "name": "E-BARCS MFB",
+        "short_name": "E-BARCS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090156"
+        },
+        "status": "active",
+        "id": "23401000167"
+      },
+      {
+        "name": "EAGLE FLIGHT MFB",
+        "short_name": "EAGLE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090294"
+        },
+        "status": "active",
+        "id": "23401000168"
+      },
+      {
+        "name": "EBSU MICROFINANCE Bank",
+        "short_name": "EBSU MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090427"
+        },
+        "status": "active",
+        "id": "23401000169"
+      },
+      {
+        "name": "EDFIN MFB",
+        "short_name": "EDFIN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090310"
+        },
+        "status": "active",
+        "id": "23401000170"
+      },
+      {
+        "name": "EK-Reliable Microfinance Bank",
+        "short_name": "EK-Reliable MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090389"
+        },
+        "status": "active",
+        "id": "23401000171"
+      },
+      {
+        "name": "EKONDO MFB",
+        "short_name": "EKONDO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090097"
+        },
+        "status": "active",
+        "id": "23401000172"
+      },
+      {
+        "name": "EMERALDS MFB",
+        "short_name": "EMERALDS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090273"
+        },
+        "status": "active",
+        "id": "23401000173"
+      },
+      {
+        "name": "EMPIRETRUST MICROFINANCE BANK",
+        "short_name": "EMPIRETRUST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090114"
+        },
+        "status": "active",
+        "id": "23401000174"
+      },
+      {
+        "name": "ESAN MFB",
+        "short_name": "ESAN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090189"
+        },
+        "status": "active",
+        "id": "23401000175"
+      },
+      {
+        "name": "ESO-E MICROFINANCE BANK",
+        "short_name": "ESO-E MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090166"
+        },
+        "status": "active",
+        "id": "23401000176"
+      },
+      {
+        "name": "EVANGEL MFB",
+        "short_name": "EVANGEL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090304"
+        },
+        "status": "active",
+        "id": "23401000177"
+      },
+      {
+        "name": "EVERGREEN MICROFINANCE BANK",
+        "short_name": "EVERGREEN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090332"
+        },
+        "status": "active",
+        "id": "23401000178"
+      },
+      {
+        "name": "EYOWO MICROFINANCE BANK",
+        "short_name": "EYOWO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090328"
+        },
+        "status": "active",
+        "id": "23401000179"
+      },
+      {
+        "name": "FAME Microfinance Bank",
+        "short_name": "FAME MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090330"
+        },
+        "status": "active",
+        "id": "23401000180"
+      },
+      {
+        "name": "FAST Microfinance Bank",
+        "short_name": "FAST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090179"
+        },
+        "status": "active",
+        "id": "23401000181"
+      },
+      {
+        "name": "FCMB MFB",
+        "short_name": "FCMB MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090409"
+        },
+        "status": "active",
+        "id": "23401000182"
+      },
+      {
+        "name": "FCT MFB",
+        "short_name": "FCT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090290"
+        },
+        "status": "active",
+        "id": "23401000183"
+      },
+      {
+        "name": "FEDERAL UNIVERSITY DUTSE  MICROFINANCE BANK",
+        "short_name": "FEDERAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090318"
+        },
+        "status": "active",
+        "id": "23401000184"
+      },
+      {
+        "name": "FEDERALPOLY NASARAWAMFB",
+        "short_name": "FEDERALPOLY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090298"
+        },
+        "status": "active",
+        "id": "23401000185"
+      },
+      {
+        "name": "FFS MICROFINANCE BANK",
+        "short_name": "FFS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090153"
+        },
+        "status": "active",
+        "id": "23401000186"
+      },
+      {
+        "name": "FIDFUND MFB",
+        "short_name": "FIDFUND MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090126"
+        },
+        "status": "active",
+        "id": "23401000187"
+      },
+      {
+        "name": "FIMS MFB",
+        "short_name": "FIMS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090507"
+        },
+        "status": "active",
+        "id": "23401000188"
+      },
+      {
+        "name": "FINATRUST MICROFINANCE BANK",
+        "short_name": "FINATRUST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090111"
+        },
+        "status": "active",
+        "id": "23401000189"
+      },
+      {
+        "name": "FINEX MFB",
+        "short_name": "FINEX MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090281"
+        },
+        "status": "active",
+        "id": "23401000190"
+      },
+      {
+        "name": "FIRST MULTIPLE MFB",
+        "short_name": "FIRST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090163"
+        },
+        "status": "active",
+        "id": "23401000191"
+      },
+      {
+        "name": "FIRST OPTION MFB",
+        "short_name": "FIRST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090285"
+        },
+        "status": "active",
+        "id": "23401000192"
+      },
+      {
+        "name": "FIRST ROYAL MICROFINANCE BANK",
+        "short_name": "FIRST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090164"
+        },
+        "status": "active",
+        "id": "23401000193"
+      },
+      {
+        "name": "FIRSTTRUST MORGAGES LIMITED",
+        "short_name": "FIRSTTRUST MORGAGES",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090107"
+        },
+        "status": "active",
+        "id": "23401000194"
+      },
+      {
+        "name": "FULL RANGE MFB",
+        "short_name": "FULL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090145"
+        },
+        "status": "active",
+        "id": "23401000195"
+      },
+      {
+        "name": "FUTO MFB",
+        "short_name": "FUTO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090158"
+        },
+        "status": "active",
+        "id": "23401000196"
+      },
+      {
+        "name": "Federal Polytechnic Nekede Microfinance Bank",
+        "short_name": "Federal MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090398"
+        },
+        "status": "active",
+        "id": "23401000197"
+      },
+      {
+        "name": "Fedeth MFB",
+        "short_name": "Fedeth MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090482"
+        },
+        "status": "active",
+        "id": "23401000198"
+      },
+      {
+        "name": "Finca Microfinance Bank",
+        "short_name": "Finca MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090400"
+        },
+        "status": "active",
+        "id": "23401000199"
+      },
+      {
+        "name": "Firmus MICROFINANCE BANK",
+        "short_name": "Firmus MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090366"
+        },
+        "status": "active",
+        "id": "23401000200"
+      },
+      {
+        "name": "First Heritage MFB",
+        "short_name": "First MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090479"
+        },
+        "status": "active",
+        "id": "23401000201"
+      },
+      {
+        "name": "Foresight Microfinance bank",
+        "short_name": "Foresight MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090521"
+        },
+        "status": "active",
+        "id": "23401000202"
+      },
+      {
+        "name": "Fortress Microfinance Bank",
+        "short_name": "Fortress MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090486"
+        },
+        "status": "active",
+        "id": "23401000203"
+      },
+      {
+        "name": "Futminna Microfinance Bank",
+        "short_name": "Futminna MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090438"
+        },
+        "status": "active",
+        "id": "23401000204"
+      },
+      {
+        "name": "GASHUA MICROFINANCE BANK",
+        "short_name": "GASHUA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090168"
+        },
+        "status": "active",
+        "id": "23401000205"
+      },
+      {
+        "name": "GLORY MFB ",
+        "short_name": "GLORY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090278"
+        },
+        "status": "active",
+        "id": "23401000206"
+      },
+      {
+        "name": "GMB Microfinance Bank",
+        "short_name": "GMB MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090408"
+        },
+        "status": "active",
+        "id": "23401000207"
+      },
+      {
+        "name": "GOWANS MFB",
+        "short_name": "GOWANS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090122"
+        },
+        "status": "active",
+        "id": "23401000208"
+      },
+      {
+        "name": "GREENBANK MFB",
+        "short_name": "GREENBANK MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090178"
+        },
+        "status": "active",
+        "id": "23401000209"
+      },
+      {
+        "name": "GREENVILLE MICROFINANCE BANK",
+        "short_name": "GREENVILLE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090269"
+        },
+        "status": "active",
+        "id": "23401000210"
+      },
+      {
+        "name": "GROOMING MICROFINANCE BANK",
+        "short_name": "GROOMING MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090195"
+        },
+        "status": "active",
+        "id": "23401000211"
+      },
+      {
+        "name": "GTI  Microfinance Bank",
+        "short_name": "GTI MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090385"
+        },
+        "status": "active",
+        "id": "23401000212"
+      },
+      {
+        "name": "Garki MFB",
+        "short_name": "Garki MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090484"
+        },
+        "status": "active",
+        "id": "23401000213"
+      },
+      {
+        "name": "GiGinya Microfinance Bank",
+        "short_name": "GiGinya MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090411"
+        },
+        "status": "active",
+        "id": "23401000214"
+      },
+      {
+        "name": "Giant Stride MFB",
+        "short_name": "Giant MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090475"
+        },
+        "status": "active",
+        "id": "23401000215"
+      },
+      {
+        "name": "Girei MFB",
+        "short_name": "Girei MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090186"
+        },
+        "status": "active",
+        "id": "23401000216"
+      },
+      {
+        "name": "Giwa Microfinance Bank",
+        "short_name": "Giwa MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090441"
+        },
+        "status": "active",
+        "id": "23401000217"
+      },
+      {
+        "name": "Good Neighbours Microfinance Bank",
+        "short_name": "Good MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090467"
+        },
+        "status": "active",
+        "id": "23401000218"
+      },
+      {
+        "name": "Goodnews Microfinance Bank",
+        "short_name": "Goodnews MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090495"
+        },
+        "status": "active",
+        "id": "23401000219"
+      },
+      {
+        "name": "Grant Microfinance Bank",
+        "short_name": "Grant MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090335"
+        },
+        "status": "active",
+        "id": "23401000220"
+      },
+      {
+        "name": "Gwong Microfinance bank",
+        "short_name": "Gwong MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090500"
+        },
+        "status": "active",
+        "id": "23401000221"
+      },
+      {
+        "name": "HACKMAN MICROFINANCE BANK",
+        "short_name": "HACKMAN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090147"
+        },
+        "status": "active",
+        "id": "23401000222"
+      },
+      {
+        "name": "HALA MFB",
+        "short_name": "HALA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090291"
+        },
+        "status": "active",
+        "id": "23401000223"
+      },
+      {
+        "name": "HASAL MFB",
+        "short_name": "HASAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090121"
+        },
+        "status": "active",
+        "id": "23401000224"
+      },
+      {
+        "name": "Headway MFB",
+        "short_name": "Headway MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090363"
+        },
+        "status": "active",
+        "id": "23401000225"
+      },
+      {
+        "name": "Highland Microfinance Bank",
+        "short_name": "Highland MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090418"
+        },
+        "status": "active",
+        "id": "23401000226"
+      },
+      {
+        "name": "IBETO  Microfinance Bank",
+        "short_name": "IBETO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090439"
+        },
+        "status": "active",
+        "id": "23401000227"
+      },
+      {
+        "name": "IBILE MICROFINANCE BANK",
+        "short_name": "IBILE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090118"
+        },
+        "status": "active",
+        "id": "23401000228"
+      },
+      {
+        "name": "IC GLOBALMicrofinance bank",
+        "short_name": "IC MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090520"
+        },
+        "status": "active",
+        "id": "23401000229"
+      },
+      {
+        "name": "IKENNE MFB",
+        "short_name": "IKENNE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090324"
+        },
+        "status": "active",
+        "id": "23401000230"
+      },
+      {
+        "name": "IKIRE MFB",
+        "short_name": "IKIRE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090279"
+        },
+        "status": "active",
+        "id": "23401000231"
+      },
+      {
+        "name": "ILASAN MICROFINANCE BANK",
+        "short_name": "ILASAN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090370"
+        },
+        "status": "active",
+        "id": "23401000232"
+      },
+      {
+        "name": "IMO MICROFINANCE BANK",
+        "short_name": "IMO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090258"
+        },
+        "status": "active",
+        "id": "23401000233"
+      },
+      {
+        "name": "INFINITY MFB",
+        "short_name": "INFINITY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090157"
+        },
+        "status": "active",
+        "id": "23401000234"
+      },
+      {
+        "name": "IRL MICROFINANCE BANK",
+        "short_name": "IRL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090149"
+        },
+        "status": "active",
+        "id": "23401000235"
+      },
+      {
+        "name": "ISALEOYO MICROFINANCE BANK",
+        "short_name": "ISALEOYO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090377"
+        },
+        "status": "active",
+        "id": "23401000236"
+      },
+      {
+        "name": "Ibom fadama Microfinance Bank",
+        "short_name": "Ibom MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090519"
+        },
+        "status": "active",
+        "id": "23401000237"
+      },
+      {
+        "name": "Illorin Microfinance Bank",
+        "short_name": "Illorin MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090350"
+        },
+        "status": "active",
+        "id": "23401000238"
+      },
+      {
+        "name": "Ilora Microfinance Bank",
+        "short_name": "Ilora MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090430"
+        },
+        "status": "active",
+        "id": "23401000239"
+      },
+      {
+        "name": "Imowo Microfinance Bank",
+        "short_name": "Imowo MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090417"
+        },
+        "status": "active",
+        "id": "23401000240"
+      },
+      {
+        "name": "Insight Microfinance Bank",
+        "short_name": "Insight MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090434"
+        },
+        "status": "active",
+        "id": "23401000241"
+      },
+      {
+        "name": "Interland MFB",
+        "short_name": "Interland MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090386"
+        },
+        "status": "active",
+        "id": "23401000242"
+      },
+      {
+        "name": "Iperu Microfinance Bank",
+        "short_name": "Iperu MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090493"
+        },
+        "status": "active",
+        "id": "23401000243"
+      },
+      {
+        "name": "Ishie  Microfinance Bank",
+        "short_name": "Ishie MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090428"
+        },
+        "status": "active",
+        "id": "23401000244"
+      },
+      {
+        "name": "Isuofia MFB",
+        "short_name": "Isuofia MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090353"
+        },
+        "status": "active",
+        "id": "23401000245"
+      },
+      {
+        "name": "Izon Microfinance Bank",
+        "short_name": "Izon MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090421"
+        },
+        "status": "active",
+        "id": "23401000246"
+      },
+      {
+        "name": "JUBILEELIFE",
+        "short_name": "JUBILEELIFE",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090003"
+        },
+        "status": "active",
+        "id": "23401000247"
+      },
+      {
+        "name": "Jessefield Microfinance Bank",
+        "short_name": "Jessefield MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090352"
+        },
+        "status": "active",
+        "id": "23401000248"
+      },
+      {
+        "name": "KADPOLY MICROFINANCE BANK",
+        "short_name": "KADPOLY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090320"
+        },
+        "status": "active",
+        "id": "23401000249"
+      },
+      {
+        "name": "KCMB MFB",
+        "short_name": "KCMB MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090191"
+        },
+        "status": "active",
+        "id": "23401000250"
+      },
+      {
+        "name": "KONTAGORA MFB",
+        "short_name": "KONTAGORA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090299"
+        },
+        "status": "active",
+        "id": "23401000251"
+      },
+      {
+        "name": "KREDI MONEY MICROFINANCE BANK",
+        "short_name": "KREDI MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090380"
+        },
+        "status": "active",
+        "id": "23401000252"
+      },
+      {
+        "name": "Kingdom College  Microfinance Bank",
+        "short_name": "Kingdom MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090487"
+        },
+        "status": "active",
+        "id": "23401000253"
+      },
+      {
+        "name": "Kwasu MF Bank",
+        "short_name": "Kwasu MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090450"
+        },
+        "status": "active",
+        "id": "23401000254"
+      },
+      {
+        "name": "LAPO MFB",
+        "short_name": "LAPO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090177"
+        },
+        "status": "active",
+        "id": "23401000255"
+      },
+      {
+        "name": "LAVENDER MICROFINANCE BANK",
+        "short_name": "LAVENDER MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090271"
+        },
+        "status": "active",
+        "id": "23401000256"
+      },
+      {
+        "name": "LEGEND MICROFINANCE BANK",
+        "short_name": "LEGEND MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090372"
+        },
+        "status": "active",
+        "id": "23401000257"
+      },
+      {
+        "name": "LETSHEGO MICROFINANCE BANK",
+        "short_name": "LETSHEGO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090420"
+        },
+        "status": "active",
+        "id": "23401000258"
+      },
+      {
+        "name": "LOVONUS MICROFINANCE BANK",
+        "short_name": "LOVONUS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090265"
+        },
+        "status": "active",
+        "id": "23401000259"
+      },
+      {
+        "name": "Landgold  Microfinance Bank",
+        "short_name": "Landgold MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090422"
+        },
+        "status": "active",
+        "id": "23401000260"
+      },
+      {
+        "name": "Light Microfinance Bank",
+        "short_name": "Light MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090477"
+        },
+        "status": "active",
+        "id": "23401000261"
+      },
+      {
+        "name": "Links  Microfinance Bank",
+        "short_name": "Links MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090435"
+        },
+        "status": "active",
+        "id": "23401000262"
+      },
+      {
+        "name": "MAINLAND MICROFINANCE BANK",
+        "short_name": "MAINLAND MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090323"
+        },
+        "status": "active",
+        "id": "23401000263"
+      },
+      {
+        "name": "MAINSTREET MFB",
+        "short_name": "MAINSTREET MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090171"
+        },
+        "status": "active",
+        "id": "23401000264"
+      },
+      {
+        "name": "MALACHY MFB",
+        "short_name": "MALACHY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090174"
+        },
+        "status": "active",
+        "id": "23401000265"
+      },
+      {
+        "name": "MANNY MICROFINANCE BANK",
+        "short_name": "MANNY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090383"
+        },
+        "status": "active",
+        "id": "23401000266"
+      },
+      {
+        "name": "MAYFAIR  MFB",
+        "short_name": "MAYFAIR MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090321"
+        },
+        "status": "active",
+        "id": "23401000267"
+      },
+      {
+        "name": "MEGAPRAISE MICROFINANCE BANK",
+        "short_name": "MEGAPRAISE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090280"
+        },
+        "status": "active",
+        "id": "23401000268"
+      },
+      {
+        "name": "MERIDIAN MFB",
+        "short_name": "MERIDIAN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090275"
+        },
+        "status": "active",
+        "id": "23401000269"
+      },
+      {
+        "name": "MICROCRED MICROFINANCE BANK",
+        "short_name": "MICROCRED MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090136"
+        },
+        "status": "active",
+        "id": "23401000270"
+      },
+      {
+        "name": "MICROVIS MICROFINANCE BANK",
+        "short_name": "MICROVIS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090113"
+        },
+        "status": "active",
+        "id": "23401000271"
+      },
+      {
+        "name": "MOLUSI MICROFINANCE BANK",
+        "short_name": "MOLUSI MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090362"
+        },
+        "status": "active",
+        "id": "23401000272"
+      },
+      {
+        "name": "MONEYTRUST MFB",
+        "short_name": "MONEYTRUST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090129"
+        },
+        "status": "active",
+        "id": "23401000273"
+      },
+      {
+        "name": "MONIEPOINT MICROFINANCE BANK",
+        "short_name": "MONIEPOINT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090405"
+        },
+        "status": "active",
+        "id": "23401000274"
+      },
+      {
+        "name": "MUTUAL BENEFITS MFB",
+        "short_name": "MUTUAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090190"
+        },
+        "status": "active",
+        "id": "23401000275"
+      },
+      {
+        "name": "MUTUAL TRUST MICROFINANCE BANK",
+        "short_name": "MUTUAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090151"
+        },
+        "status": "active",
+        "id": "23401000276"
+      },
+      {
+        "name": "Maintrust MFB",
+        "short_name": "Maintrust MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090465"
+        },
+        "status": "active",
+        "id": "23401000277"
+      },
+      {
+        "name": "Maritime Microfinance Bank",
+        "short_name": "Maritime MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090410"
+        },
+        "status": "active",
+        "id": "23401000278"
+      },
+      {
+        "name": "Mautech  Microfinance Bank",
+        "short_name": "Mautech MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090423"
+        },
+        "status": "active",
+        "id": "23401000279"
+      },
+      {
+        "name": "Memphis Microfinance Bank",
+        "short_name": "Memphis MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090432"
+        },
+        "status": "active",
+        "id": "23401000280"
+      },
+      {
+        "name": "Midland MFB",
+        "short_name": "Midland MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090192"
+        },
+        "status": "active",
+        "id": "23401000281"
+      },
+      {
+        "name": "Monarch Microfinance Bank",
+        "short_name": "Monarch MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090462"
+        },
+        "status": "active",
+        "id": "23401000282"
+      },
+      {
+        "name": "Moyofade MF Bank",
+        "short_name": "Moyofade MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090448"
+        },
+        "status": "active",
+        "id": "23401000283"
+      },
+      {
+        "name": "Mozfin Microfinance Bank",
+        "short_name": "Mozfin MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090392"
+        },
+        "status": "active",
+        "id": "23401000284"
+      },
+      {
+        "name": "NARGATA MFB",
+        "short_name": "NARGATA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090152"
+        },
+        "status": "active",
+        "id": "23401000285"
+      },
+      {
+        "name": "NAVY MICROFINANCE BANK",
+        "short_name": "NAVY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090263"
+        },
+        "status": "active",
+        "id": "23401000286"
+      },
+      {
+        "name": "NDIORAH MFB",
+        "short_name": "NDIORAH MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090128"
+        },
+        "status": "active",
+        "id": "23401000287"
+      },
+      {
+        "name": "NEPTUNE MICROFINANCE BANK",
+        "short_name": "NEPTUNE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090329"
+        },
+        "status": "active",
+        "id": "23401000288"
+      },
+      {
+        "name": "NEW GOLDEN PASTURES MICROFINANCE BANK",
+        "short_name": "NEW MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090378"
+        },
+        "status": "active",
+        "id": "23401000289"
+      },
+      {
+        "name": "NEWDAWN MICROFINANCE BANK",
+        "short_name": "NEWDAWN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090205"
+        },
+        "status": "active",
+        "id": "23401000290"
+      },
+      {
+        "name": "NIRSAL NATIONAL MICROFINANCE BANK",
+        "short_name": "NIRSAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090194"
+        },
+        "status": "active",
+        "id": "23401000291"
+      },
+      {
+        "name": "NNEW WOMEN MFB",
+        "short_name": "NNEW MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090283"
+        },
+        "status": "active",
+        "id": "23401000292"
+      },
+      {
+        "name": "NUTURE MFB",
+        "short_name": "NUTURE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090364"
+        },
+        "status": "active",
+        "id": "23401000293"
+      },
+      {
+        "name": "Nasarawa Microfinance bank",
+        "short_name": "Nasarawa MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090349"
+        },
+        "status": "active",
+        "id": "23401000294"
+      },
+      {
+        "name": "Nice Microfinance Bank",
+        "short_name": "Nice MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090459"
+        },
+        "status": "active",
+        "id": "23401000295"
+      },
+      {
+        "name": "Nigeria PrisonsMicrofinance bank",
+        "short_name": "Nigeria MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090505"
+        },
+        "status": "active",
+        "id": "23401000296"
+      },
+      {
+        "name": "Nsuk  Microfinance Bank",
+        "short_name": "Nsuk MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090491"
+        },
+        "status": "active",
+        "id": "23401000297"
+      },
+      {
+        "name": "Numo Microfinance bank",
+        "short_name": "Numo MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090516"
+        },
+        "status": "active",
+        "id": "23401000298"
+      },
+      {
+        "name": "Nwannegadi MFB",
+        "short_name": "Nwannegadi MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090399"
+        },
+        "status": "active",
+        "id": "23401000299"
+      },
+      {
+        "name": "OCHE MFB",
+        "short_name": "OCHE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090333"
+        },
+        "status": "active",
+        "id": "23401000300"
+      },
+      {
+        "name": "OHAFIA MFB",
+        "short_name": "OHAFIA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090119"
+        },
+        "status": "active",
+        "id": "23401000301"
+      },
+      {
+        "name": "OKPOGA MFB",
+        "short_name": "OKPOGA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090161"
+        },
+        "status": "active",
+        "id": "23401000302"
+      },
+      {
+        "name": "OLABISI ONABANJO UNIVERSITY MICROFINANCE BANK",
+        "short_name": "OLABISI MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090272"
+        },
+        "status": "active",
+        "id": "23401000303"
+      },
+      {
+        "name": "OLOFIN OWENA Microfinance Bank",
+        "short_name": "OLOFIN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090468"
+        },
+        "status": "active",
+        "id": "23401000304"
+      },
+      {
+        "name": "OLUCHUKWU Microfinance Bank",
+        "short_name": "OLUCHUKWU MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090471"
+        },
+        "status": "active",
+        "id": "23401000305"
+      },
+      {
+        "name": "OLUYOLE MICROFINANCE BANK",
+        "short_name": "OLUYOLE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090460"
+        },
+        "status": "active",
+        "id": "23401000306"
+      },
+      {
+        "name": "OMIYE MFB",
+        "short_name": "OMIYE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090295"
+        },
+        "status": "active",
+        "id": "23401000307"
+      },
+      {
+        "name": "Oakland Microfinance Bank",
+        "short_name": "Oakland MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090437"
+        },
+        "status": "active",
+        "id": "23401000308"
+      },
+      {
+        "name": "Ojokoro Mfb",
+        "short_name": "Ojokoro MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090527"
+        },
+        "status": "active",
+        "id": "23401000309"
+      },
+      {
+        "name": "Olowolagba Microfinance Bank",
+        "short_name": "Olowolagba MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090404"
+        },
+        "status": "active",
+        "id": "23401000310"
+      },
+      {
+        "name": "Oraukwu  Microfinance Bank",
+        "short_name": "Oraukwu MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090492"
+        },
+        "status": "active",
+        "id": "23401000311"
+      },
+      {
+        "name": "Oscotech MFB",
+        "short_name": "Oscotech MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090396"
+        },
+        "status": "active",
+        "id": "23401000312"
+      },
+      {
+        "name": "Ospoly Microfinance Bank",
+        "short_name": "Ospoly MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090456"
+        },
+        "status": "active",
+        "id": "23401000313"
+      },
+      {
+        "name": "PARRALEX",
+        "short_name": "PARRALEX",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090004"
+        },
+        "status": "active",
+        "id": "23401000314"
+      },
+      {
+        "name": "PATRICK GOLD",
+        "short_name": "PATRICK GOLD",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090317"
+        },
+        "status": "active",
+        "id": "23401000315"
+      },
+      {
+        "name": "PECAN TRUST MICROFINANCE BANK",
+        "short_name": "PECAN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090137"
+        },
+        "status": "active",
+        "id": "23401000316"
+      },
+      {
+        "name": "PENNYWISE MICROFINANCE BANK",
+        "short_name": "PENNYWISE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090196"
+        },
+        "status": "active",
+        "id": "23401000317"
+      },
+      {
+        "name": "PERSONAL TRUST MICROFINANCE BANK",
+        "short_name": "PERSONAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090135"
+        },
+        "status": "active",
+        "id": "23401000318"
+      },
+      {
+        "name": "PETRA MICROFINANCE BANK",
+        "short_name": "PETRA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090165"
+        },
+        "status": "active",
+        "id": "23401000319"
+      },
+      {
+        "name": "PILLAR MFB",
+        "short_name": "PILLAR MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090289"
+        },
+        "status": "active",
+        "id": "23401000320"
+      },
+      {
+        "name": "POLYUWANNA MFB",
+        "short_name": "POLYUWANNA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090296"
+        },
+        "status": "active",
+        "id": "23401000321"
+      },
+      {
+        "name": "PRESTIGE MICROFINANCE BANK",
+        "short_name": "PRESTIGE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090274"
+        },
+        "status": "active",
+        "id": "23401000322"
+      },
+      {
+        "name": "PURPLEMONEY MFB",
+        "short_name": "PURPLEMONEY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090303"
+        },
+        "status": "active",
+        "id": "23401000323"
+      },
+      {
+        "name": "Palmcoast Microfinance bank",
+        "short_name": "Palmcoast MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090497"
+        },
+        "status": "active",
+        "id": "23401000324"
+      },
+      {
+        "name": "Parkway MF Bank",
+        "short_name": "Parkway MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090390"
+        },
+        "status": "active",
+        "id": "23401000325"
+      },
+      {
+        "name": "Peace Microfinance Bank",
+        "short_name": "Peace MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090402"
+        },
+        "status": "active",
+        "id": "23401000326"
+      },
+      {
+        "name": "Preeminent Microfinance Bank",
+        "short_name": "Preeminent MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090412"
+        },
+        "status": "active",
+        "id": "23401000327"
+      },
+      {
+        "name": "Prisco  Microfinance Bank",
+        "short_name": "Prisco MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090481"
+        },
+        "status": "active",
+        "id": "23401000328"
+      },
+      {
+        "name": "Pristine Divitis Microfinance Bank",
+        "short_name": "Pristine MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090499"
+        },
+        "status": "active",
+        "id": "23401000329"
+      },
+      {
+        "name": "Projects Microfinance bank",
+        "short_name": "Projects MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090503"
+        },
+        "status": "active",
+        "id": "23401000330"
+      },
+      {
+        "name": "QUICKFUND MICROFINANCE BANK",
+        "short_name": "QUICKFUND MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090261"
+        },
+        "status": "active",
+        "id": "23401000331"
+      },
+      {
+        "name": "RAHAMA MFB",
+        "short_name": "RAHAMA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090170"
+        },
+        "status": "active",
+        "id": "23401000332"
+      },
+      {
+        "name": "REGENT MFB",
+        "short_name": "REGENT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090125"
+        },
+        "status": "active",
+        "id": "23401000333"
+      },
+      {
+        "name": "RELIANCE MFB",
+        "short_name": "RELIANCE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090173"
+        },
+        "status": "active",
+        "id": "23401000334"
+      },
+      {
+        "name": "RENMONEY MICROFINANCE BANK",
+        "short_name": "RENMONEY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090198"
+        },
+        "status": "active",
+        "id": "23401000335"
+      },
+      {
+        "name": "REPHIDIM MICROFINANCE BANK",
+        "short_name": "REPHIDIM MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090322"
+        },
+        "status": "active",
+        "id": "23401000336"
+      },
+      {
+        "name": "RICHWAY MFB",
+        "short_name": "RICHWAY MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090132"
+        },
+        "status": "active",
+        "id": "23401000337"
+      },
+      {
+        "name": "RIGO Microfinance Bank",
+        "short_name": "RIGO MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090433"
+        },
+        "status": "active",
+        "id": "23401000338"
+      },
+      {
+        "name": "RIMA Microfinance Bank",
+        "short_name": "RIMA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090443"
+        },
+        "status": "active",
+        "id": "23401000339"
+      },
+      {
+        "name": "ROYAL EXCHANGE MICROFINANCE BANK",
+        "short_name": "ROYAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090138"
+        },
+        "status": "active",
+        "id": "23401000340"
+      },
+      {
+        "name": "Radalpha Microfinance bank",
+        "short_name": "Radalpha MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090496"
+        },
+        "status": "active",
+        "id": "23401000341"
+      },
+      {
+        "name": "Rehoboth Microfinance Bank",
+        "short_name": "Rehoboth MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090463"
+        },
+        "status": "active",
+        "id": "23401000342"
+      },
+      {
+        "name": "Rima Growth pathway Microfinance Bank ",
+        "short_name": "Rima MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090515"
+        },
+        "status": "active",
+        "id": "23401000343"
+      },
+      {
+        "name": "SAFETRUST",
+        "short_name": "SAFETRUST",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090006"
+        },
+        "status": "active",
+        "id": "23401000344"
+      },
+      {
+        "name": "SAGAMU MICROFINANCE BANK",
+        "short_name": "SAGAMU MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090140"
+        },
+        "status": "active",
+        "id": "23401000345"
+      },
+      {
+        "name": "SEAP Microfinance Bank",
+        "short_name": "SEAP MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090513"
+        },
+        "status": "active",
+        "id": "23401000346"
+      },
+      {
+        "name": "SEED CAPITAL MICROFINANCE BANK",
+        "short_name": "SEED MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090112"
+        },
+        "status": "active",
+        "id": "23401000347"
+      },
+      {
+        "name": "SEEDVEST MICROFINANCE BANK",
+        "short_name": "SEEDVEST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090369"
+        },
+        "status": "active",
+        "id": "23401000348"
+      },
+      {
+        "name": "SLS  MF Bank",
+        "short_name": "SLS MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090449"
+        },
+        "status": "active",
+        "id": "23401000349"
+      },
+      {
+        "name": "STANFORD MFB",
+        "short_name": "STANFORD MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090162"
+        },
+        "status": "active",
+        "id": "23401000350"
+      },
+      {
+        "name": "STELLAS MICROFINANCE BANK",
+        "short_name": "STELLAS MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090262"
+        },
+        "status": "active",
+        "id": "23401000351"
+      },
+      {
+        "name": "SULSAP MFB",
+        "short_name": "SULSAP MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090305"
+        },
+        "status": "active",
+        "id": "23401000352"
+      },
+      {
+        "name": "SafeHaven Microfinance Bank",
+        "short_name": "SafeHaven MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090286"
+        },
+        "status": "active",
+        "id": "23401000353"
+      },
+      {
+        "name": "Safegate Microfinance Bank",
+        "short_name": "Safegate MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090485"
+        },
+        "status": "active",
+        "id": "23401000354"
+      },
+      {
+        "name": "Shalom Microfinance Bank",
+        "short_name": "Shalom MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090502"
+        },
+        "status": "active",
+        "id": "23401000355"
+      },
+      {
+        "name": "Shepherd Trust Microfinance Bank",
+        "short_name": "Shepherd MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090401"
+        },
+        "status": "active",
+        "id": "23401000356"
+      },
+      {
+        "name": "Solid Allianze MFB",
+        "short_name": "Solid MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090506"
+        },
+        "status": "active",
+        "id": "23401000357"
+      },
+      {
+        "name": "Solidrock Microfinance bank",
+        "short_name": "Solidrock MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090524"
+        },
+        "status": "active",
+        "id": "23401000358"
+      },
+      {
+        "name": "Spectrum Microfinance Bank",
+        "short_name": "Spectrum MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090436"
+        },
+        "status": "active",
+        "id": "23401000359"
+      },
+      {
+        "name": "Standard MFB",
+        "short_name": "Standard MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090182"
+        },
+        "status": "active",
+        "id": "23401000360"
+      },
+      {
+        "name": "Stockcorp  Microfinance Bank",
+        "short_name": "Stockcorp MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090340"
+        },
+        "status": "active",
+        "id": "23401000361"
+      },
+      {
+        "name": "Sunbeam Microfinance Bank",
+        "short_name": "Sunbeam MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090302"
+        },
+        "status": "active",
+        "id": "23401000362"
+      },
+      {
+        "name": "Support MF Bank",
+        "short_name": "Support MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090446"
+        },
+        "status": "active",
+        "id": "23401000363"
+      },
+      {
+        "name": "TCF",
+        "short_name": "TCF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090115"
+        },
+        "status": "active",
+        "id": "23401000364"
+      },
+      {
+        "name": "TF MICROFINANCE BANK",
+        "short_name": "TF MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090373"
+        },
+        "status": "active",
+        "id": "23401000365"
+      },
+      {
+        "name": "TITAN-PAYSTACK MICROFINANCE BANK",
+        "short_name": "TITAN-PAYSTACK MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "100039"
+        },
+        "status": "active",
+        "id": "23401000366"
+      },
+      {
+        "name": "TRIDENT MICROFINANCE BANK",
+        "short_name": "TRIDENT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090146"
+        },
+        "status": "active",
+        "id": "23401000367"
+      },
+      {
+        "name": "TRUST MFB",
+        "short_name": "TRUST MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090327"
+        },
+        "status": "active",
+        "id": "23401000368"
+      },
+      {
+        "name": "TRUSTBANC J6 MICROFINANCE BANK LIMITED",
+        "short_name": "TRUSTBANC MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090123"
+        },
+        "status": "active",
+        "id": "23401000369"
+      },
+      {
+        "name": "TRUSTBOND",
+        "short_name": "TRUSTBOND",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090005"
+        },
+        "status": "active",
+        "id": "23401000370"
+      },
+      {
+        "name": "TRUSTFUND MICROFINANCE BANK",
+        "short_name": "TRUSTFUND MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090276"
+        },
+        "status": "active",
+        "id": "23401000371"
+      },
+      {
+        "name": "Tangerine Money MFB",
+        "short_name": "Tangerine MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090426"
+        },
+        "status": "active",
+        "id": "23401000372"
+      },
+      {
+        "name": "Triple A Microfinance bank",
+        "short_name": "Triple MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090525"
+        },
+        "status": "active",
+        "id": "23401000373"
+      },
+      {
+        "name": "U AND C MFB",
+        "short_name": "U MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090315"
+        },
+        "status": "active",
+        "id": "23401000374"
+      },
+      {
+        "name": "UNAAB MFB",
+        "short_name": "UNAAB MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090331"
+        },
+        "status": "active",
+        "id": "23401000375"
+      },
+      {
+        "name": "UNIBEN MICROFINANCE BANK",
+        "short_name": "UNIBEN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090266"
+        },
+        "status": "active",
+        "id": "23401000376"
+      },
+      {
+        "name": "UNICAL MFB",
+        "short_name": "UNICAL MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090193"
+        },
+        "status": "active",
+        "id": "23401000377"
+      },
+      {
+        "name": "UNN MFB",
+        "short_name": "UNN MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090251"
+        },
+        "status": "active",
+        "id": "23401000378"
+      },
+      {
+        "name": "Uhuru Microfinance bank",
+        "short_name": "Uhuru MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090517"
+        },
+        "status": "active",
+        "id": "23401000379"
+      },
+      {
+        "name": "Umuchinemere Procredit Microfinance Bank",
+        "short_name": "Umuchinemere MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090514"
+        },
+        "status": "active",
+        "id": "23401000380"
+      },
+      {
+        "name": "Umunnachi Microfinance Bank",
+        "short_name": "Umunnachi MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090510"
+        },
+        "status": "active",
+        "id": "23401000381"
+      },
+      {
+        "name": "UniUyo Microfinance Bank",
+        "short_name": "UniUyo MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090338"
+        },
+        "status": "active",
+        "id": "23401000382"
+      },
+      {
+        "name": "Unilag  Microfinance Bank",
+        "short_name": "Unilag MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090452"
+        },
+        "status": "active",
+        "id": "23401000383"
+      },
+      {
+        "name": "Unimaid Microfinance Bank",
+        "short_name": "Unimaid MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090464"
+        },
+        "status": "active",
+        "id": "23401000384"
+      },
+      {
+        "name": "Uzondu MF Bank",
+        "short_name": "Uzondu MF",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090453"
+        },
+        "status": "active",
+        "id": "23401000385"
+      },
+      {
+        "name": "VIRTUE MFB",
+        "short_name": "VIRTUE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090150"
+        },
+        "status": "active",
+        "id": "23401000386"
+      },
+      {
+        "name": "VISA MICROFINANCE BANK",
+        "short_name": "VISA MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090139"
+        },
+        "status": "active",
+        "id": "23401000387"
+      },
+      {
+        "name": "Verdant Microfinance Bank",
+        "short_name": "Verdant MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090474"
+        },
+        "status": "active",
+        "id": "23401000388"
+      },
+      {
+        "name": "WETLAND MFB",
+        "short_name": "WETLAND MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090120"
+        },
+        "status": "active",
+        "id": "23401000389"
+      },
+      {
+        "name": "WinView Bank",
+        "short_name": "WinView Bank",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090419"
+        },
+        "status": "active",
+        "id": "23401000390"
+      },
+      {
+        "name": "XSLNCE MICROFINANCE BANK",
+        "short_name": "XSLNCE MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090124"
+        },
+        "status": "active",
+        "id": "23401000391"
+      },
+      {
+        "name": "YCT Microfinance Bank",
+        "short_name": "YCT MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090466"
+        },
+        "status": "active",
+        "id": "23401000392"
+      },
+      {
+        "name": "YES MFB",
+        "short_name": "YES MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090142"
+        },
+        "status": "active",
+        "id": "23401000393"
+      },
+      {
+        "name": "Yobe MFB",
+        "short_name": "Yobe MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090252"
+        },
+        "status": "active",
+        "id": "23401000394"
+      },
+      {
+        "name": "Zikora Microfinance bank",
+        "short_name": "Zikora MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090504"
+        },
+        "status": "active",
+        "id": "23401000395"
+      },
+      {
+        "name": "unilorin Microfinance Bank",
+        "short_name": "unilorin MFB",
+        "type": "microfinance_bank",
+        "legacy": {
+          "bank_code": "090341"
+        },
+        "status": "active",
+        "id": "23401000396"
+      },
+      {
+        "name": "ACCESSMONEY",
+        "short_name": "ACCESSMONEY",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100013"
+        },
+        "status": "active",
+        "id": "23401000397"
+      },
+      {
+        "name": "BETA-ACCESS YELLO",
+        "short_name": "BETA-ACCESS YELLO",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100052"
+        },
+        "status": "active",
+        "id": "23401000398"
+      },
+      {
+        "name": "CELLULANT",
+        "short_name": "CELLULANT",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100005"
+        },
+        "status": "active",
+        "id": "23401000399"
+      },
+      {
+        "name": "CONTEC GLOBAL",
+        "short_name": "CONTEC GLOBAL",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100032"
+        },
+        "status": "active",
+        "id": "23401000400"
+      },
+      {
+        "name": "ECOBANK XPRESS ACCOUNT",
+        "short_name": "ECOBANK XPRESS",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100008"
+        },
+        "status": "active",
+        "id": "23401000401"
+      },
+      {
+        "name": "ETRANZACT",
+        "short_name": "ETRANZACT",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100006"
+        },
+        "status": "active",
+        "id": "23401000402"
+      },
+      {
+        "name": "FCMB EASY ACCOUNT",
+        "short_name": "FCMB EASY",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100031"
+        },
+        "status": "active",
+        "id": "23401000403"
+      },
+      {
+        "name": "FETS",
+        "short_name": "FETS",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100001"
+        },
+        "status": "active",
+        "id": "23401000404"
+      },
+      {
+        "name": "FIDELITY MOBILE",
+        "short_name": "FIDELITY MOBILE",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100019"
+        },
+        "status": "active",
+        "id": "23401000405"
+      },
+      {
+        "name": "FIRSTMONIE WALLET",
+        "short_name": "FIRSTMONIE WALLET",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100014"
+        },
+        "status": "active",
+        "id": "23401000406"
+      },
+      {
+        "name": "FORTISMOBILE",
+        "short_name": "FORTISMOBILE",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100016"
+        },
+        "status": "active",
+        "id": "23401000407"
+      },
+      {
+        "name": "FSDH",
+        "short_name": "FSDH",
+        "type": "other",
+        "legacy": {
+          "bank_code": "400001"
+        },
+        "status": "active",
+        "id": "23401000408"
+      },
+      {
+        "name": "GOMONEY",
+        "short_name": "GOMONEY",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100022"
+        },
+        "status": "active",
+        "id": "23401000409"
+      },
+      {
+        "name": "INTELLIFIN",
+        "short_name": "INTELLIFIN",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100027"
+        },
+        "status": "active",
+        "id": "23401000410"
+      },
+      {
+        "name": "KEGOW(CHAMSMOBILE)",
+        "short_name": "KEGOW(CHAMSMOBILE)",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100036"
+        },
+        "status": "active",
+        "id": "23401000411"
+      },
+      {
+        "name": "KONGAPAY",
+        "short_name": "KONGAPAY",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100025"
+        },
+        "status": "active",
+        "id": "23401000412"
+      },
+      {
+        "name": "M36",
+        "short_name": "M36",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100035"
+        },
+        "status": "active",
+        "id": "23401000413"
+      },
+      {
+        "name": "PARKWAY-READYCASH",
+        "short_name": "PARKWAY-READYCASH",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100003"
+        },
+        "status": "active",
+        "id": "23401000414"
+      },
+      {
+        "name": "STANBIC IBTC @EASE WALLET",
+        "short_name": "STANBIC IBTC",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100007"
+        },
+        "status": "active",
+        "id": "23401000415"
+      },
+      {
+        "name": "TAGPAY",
+        "short_name": "TAGPAY",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100023"
+        },
+        "status": "active",
+        "id": "23401000416"
+      },
+      {
+        "name": "TEASYMOBILE",
+        "short_name": "TEASYMOBILE",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100010"
+        },
+        "status": "active",
+        "id": "23401000417"
+      },
+      {
+        "name": "TajWallet",
+        "short_name": "TajWallet",
+        "type": "other",
+        "legacy": {
+          "bank_code": "080002"
+        },
+        "status": "active",
+        "id": "23401000418"
+      },
+      {
+        "name": "VTNetwork",
+        "short_name": "VTNetwork",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100012"
+        },
+        "status": "active",
+        "id": "23401000419"
+      },
+      {
+        "name": "ZWallet",
+        "short_name": "ZWallet",
+        "type": "other",
+        "legacy": {
+          "bank_code": "100034"
+        },
+        "status": "active",
+        "id": "23401000420"
+      }
+    ]
+  }
+}
