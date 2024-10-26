@@ -123,7 +123,7 @@ class StandardRoutesManager {
 // Usage Examples
 
 // 1. Initialize with our data
-import institutionsData from './nigeria.json';
+import institutionsData from './234.json';
 const standardRoutes = new StandardRoutesManager(institutionsData);
 
 // 2. Example: Processing a payment using Standard Routes ID
