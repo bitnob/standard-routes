@@ -1,5 +1,69 @@
-# standard-routes
-A standard for payment codes of financial institutions
+# Financial Institution Network Code Standard - Standard Routes
+
+## Problem
+African financial institutions operate with fragmented identification systems across countries and provider types. This makes building interoperable financial systems complex and error-prone.
+
+## Motivation
+A unified identification system to:
+- Enable seamless cross-border transactions
+- Simplify provider integrations
+- Standardize financial addressing
+- Support future expansion
+
+## Standard Structure
+```
+{COUNTRY_ISO3}{CATEGORY}{SEQUENTIAL_ID}
+```
+
+Example: `23401000001`
+- 234: Country Code (3 digits)
+- 01: Category (2 digits)
+- 000001: Sequential ID (6 digits)
+
+### Categories
+- 01: Banks (Traditional & Digital)
+- 02: Mobile Money Operators
+- 03: Payment Service Providers/Fintechs
+
+### Examples
+```
+Kenya (254)
+25402000001 - MPesa (Mobile Money)
+25401000001 - Equity Bank (Bank)
+25403000001 - Chipper (PSP)
+
+Nigeria (234)
+23401000001 - GTBank (Bank)
+23401000002 - UBA (Bank)
+23402000001 - Paga (Mobile Money)
+
+Ghana (233)
+23402000001 - MTN MoMo (Mobile Money)
+23401000001 - GCB (Bank)
+```
+
+## Implementation
+- Sequential IDs support up to 999,999 institutions per category
+- Internal mapping handles legacy codes
+- New categories can be added without breaking existing codes
+- Total length: 11 digits (fixed)
+
+## Use Case Example
+Money Transfer:
+```json
+{
+  "sender": {
+    "country": "234",
+    "provider": "23401000001",  // Maps to GTBank's legacy code internally
+    "account": "0123456789"
+  },
+  "recipient": {
+    "country": "254",
+    "provider": "25402000001",  // Maps to MPesa's internal code
+    "account": "254712345678"
+  }
+}
+```
 
 ## Usage
 ```typescript
@@ -167,3 +231,14 @@ function validateBankCode(standardCode: string) {
   };
 }
 ```
+
+## How to Contribute
+1. Provider Addition
+   - Request new provider ID
+   - Provide legacy code mapping
+   - Specify category
+
+2. Standard Enhancement
+   - Propose new categories
+   - Suggest improvements
+   - Report implementation feedback
