@@ -40,8 +40,8 @@ Nigeria (234)
 23402000001 - Paga (Mobile Money)
 
 Ghana (233)
-23402000001 - MTN MoMo (Mobile Money)
-23401000001 - GCB (Bank)
+23302000001 - MTN MoMo (Mobile Money)
+23301000001 - GCB (Bank)
 ```
 
 ## Implementation
