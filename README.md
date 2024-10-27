@@ -10,6 +10,8 @@ A unified identification system to:
 - Standardize financial addressing
 - Support future expansion
 
+Consider this the ```internet address``` of any financial institution in Africa on the internet.
+
 ## Standard Structure
 ```
 {COUNTRY_ISO3}{CATEGORY}{SEQUENTIAL_ID}
